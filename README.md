@@ -4,7 +4,7 @@
 A simple calculator 🏳️‍⚧️
 
 ## Download
-[Download Installer](mysetup.exe)
+[Download Installer](https://github.com/d-anshul/TransPrideCalculator/raw/main/mysetup.exe)
 
 ## Icon Credits:
 - The calculator icon used in this project is sourced from the https://www.pinterest.com/dmbquras/
