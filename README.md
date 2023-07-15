@@ -3,8 +3,8 @@
 
 A simple calculator 🏳️‍⚧️
 
-#Download
+## Download
 [Download Installer](mysetup.exe)
 
-#Icon Credits:
+## Icon Credits:
 - The calculator icon used in this project is sourced from the https://www.pinterest.com/dmbquras/
