@@ -26,13 +26,15 @@ window.geometry("300x400")
 window.resizable(False, False)
 window.configure(bg="#E6F5FF")
 
-# Load the icon files using PIL
+
+
 icon16 = Image.open("icon16x16.ico")
 icon32 = Image.open("icon32x32.ico")
 icon48 = Image.open("icon48x48.ico")
 icon256 = Image.open("icon256x256.ico")
 
-# Set the window icon
+
+
 window.iconphoto(True, ImageTk.PhotoImage(icon16))
 window.iconbitmap(r"icon32x32.ico")
 
