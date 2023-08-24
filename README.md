@@ -1,7 +1,7 @@
 # TransPrideCalculator
 ![image](https://github.com/d-anshul/TransPrideCalculator/assets/82749393/d867f9b8-679b-40be-b514-e33b50c01b83)
 
-A simple calculator 🏳️‍⚧️
+A simple calculator made in Python with Trans flag colors 🏳️‍⚧️
 
 ## Download
 [Download Installer](https://github.com/d-anshul/TransPrideCalculator/raw/main/mysetup.exe)
